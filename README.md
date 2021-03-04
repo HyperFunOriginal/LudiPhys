@@ -1,13 +1,13 @@
 # LudiPhys
-A physics sandbox game made by LudicrousFun and inspired by Universe Sandbox 2
-Game uses particles to simulate planets.
+A physics sandbox game made by LudicrousFun and inspired by Universe Sandbox 2 \n
+Game uses particles to simulate planets. \n
 
 planets are a collection of particles bound together by gravity.
 particles exert forces like gravity, collision, friction and 'pressure' forces.
 particles have properties and thermodynamics.
 
 # Main Controls
-W,S: Move forwards / backwards
+W,S: Move forwards / backwards \n
 A,D: Move sideways
 Q,E: Move vertically relative to 'world'
 Alpha 0: Launch a particle at center of screen with a velocity pointing directly away from camera with speed of camera movement speed.
