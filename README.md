@@ -8,20 +8,24 @@ particles exert forces like gravity, collision, friction and 'pressure' forces.
 
 particles have properties and thermodynamics.
 
-# Main Controls
+# Main Controls (Newest Version)
 W,S: Move forwards / backwards
 
 A,D: Move sideways
 
 Q,E: Move vertically relative to 'world'
 
-Alpha 0: Launch a particle at center of screen with a velocity pointing directly away from camera with speed of camera movement speed.
+Alpha 7: Launch a particle at center of screen with a velocity pointing directly away from camera with speed of camera movement speed. If specified, it will launch a specific material. If not, it'll launch silicate.
+
+Alpha 8: Launch a ~160km radius asteroid, launches similarly to Alpha 7 but with no material options.
+
+Alpha 9: Launch a ~550km radius dwarf planet, launches similarly to Alpha 7 but with no material options.
 
 Alpha 1: Reset velocities to zero
 
 Alpha 2: Reset all temperatures to 300K
 
-Enter / Return: spawns a still particle near camera
+Enter / Return: spawns a still particle near camera with material settings if specified.
 
 space: pause
 
@@ -31,6 +35,8 @@ space: pause
 scrollwheel: change camera speed
 
 '[' and ']': changes simulation accuracy; how many interactions are actually calculated
+
+'I': Keybind for iron, use together with launch particle and spawn particle buttons.
 
 
 # How to load source code?
