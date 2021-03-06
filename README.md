@@ -27,6 +27,8 @@ Alpha 2: Reset all temperatures to 300K
 
 Enter / Return: spawns a still particle near camera with material settings if specified.
 
+Right Shift: Reset timestep
+
 space: pause
 
 
