@@ -62,7 +62,7 @@ Requirements: Unity 5.2.3f1, Assets, Data
 
 4th Mar: UI, Other settings.
 
-(Planned) Add new materials, Add proper momentum
+5th Mar: v1.1; Added new materials, Added proper momentum and thermodynamics. 
 
 # Notes
 
