@@ -39,7 +39,7 @@ scrollwheel: change camera speed
 'I': Keybind for iron, use together with launch particle and spawn particle buttons.
 
 
-# How to load source code?
+# How to load source code? (Main Branch)
 
 Requirements: Unity 5.2.3f1, Assets, Data
 
@@ -48,6 +48,15 @@ Requirements: Unity 5.2.3f1, Assets, Data
 2) Extract Asset and UnityProjDet in main folder.
 
 3) Open Unity and open project!
+
+
+# How to load source code? (Releases)
+
+Requirements: Unity 5.2.3f1, Assets, Data
+
+1) Extract source.zip to destination
+
+2) Open Unity and open project!
 
 
 # Changelog
