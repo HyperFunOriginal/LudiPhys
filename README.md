@@ -40,6 +40,8 @@ scrollwheel: change camera speed
 
 'I': Keybind for iron, use together with launch particle and spawn particle buttons.
 
+'O': Keybind for water, use together with launch particle and spawn particle buttons.
+
 
 # How to load source code? (Main Branch)
 
