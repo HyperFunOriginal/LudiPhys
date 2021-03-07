@@ -29,6 +29,10 @@ Enter / Return: spawns a still particle near camera with material settings if sp
 
 Right Shift: Reset timestep
 
+';' and ('): Change laser power
+
+'L' fire laser
+
 space: pause
 
 
