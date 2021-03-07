@@ -46,6 +46,8 @@ scrollwheel: change camera speed
 
 'O': Keybind for water, use together with launch particle and spawn particle buttons.
 
+'U': Keybind for hydrogen, use together with launch particle and spawn particle buttons.
+
 
 # How to load source code? (Main Branch)
 
@@ -80,6 +82,7 @@ Requirements: Unity 5.2.3f1, Assets, Data
 4th Mar: UI, Other settings.
 
 5th Mar: v1.1; Added new materials, Added proper momentum and thermodynamics. 
+...
 
 # Notes
 
