@@ -62,7 +62,7 @@ Requirements: Unity 5.2.3f1, Assets, Data
 
 # How to load source code? (Releases)
 
-Requirements: Unity 5.2.3f1, Assets, Data
+Requirements: Unity 5.4, Assets, Data
 
 1) Extract source.zip to destination
 
