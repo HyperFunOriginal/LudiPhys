@@ -36,6 +36,7 @@ Right Shift: Reset timestep
 
 space: pause
 
+'Z': Toggle between Position Mode and Velocity Mode.
 
 ',' and '.': change timestep; high timesteps result in instability
 
