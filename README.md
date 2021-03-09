@@ -43,11 +43,9 @@ scrollwheel: change camera speed
 
 '[' and ']': changes simulation accuracy; how many interactions are actually calculated
 
-'I': Keybind for iron, use together with launch particle and spawn particle buttons.
+'P': Change Material types.
 
-'O': Keybind for water, use together with launch particle and spawn particle buttons.
-
-'U': Keybind for hydrogen, use together with launch particle and spawn particle buttons.
+'Esc': (Currently) Precursor to Settings Menu
 
 
 # How to load source code? (Main Branch)
