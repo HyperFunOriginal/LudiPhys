@@ -46,7 +46,7 @@ scrollwheel: change camera speed
 
 'P': Change Material types.
 
-'Esc': (Currently) Precursor to Settings Menu
+'Esc': Settings Menu
 
 
 # How to load source code? (Main Branch)
