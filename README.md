@@ -48,10 +48,9 @@ scrollwheel: change camera speed
 
 'Esc': Settings Menu
 
-'Home': Save Simulation, Saved in User/Appdata/LocalLow/LudicrousProductions/Physics Sandbox/Sim1.phys
+'Home': Save Simulation, Saved in PhysicsSandbox1/PhysicsSandbox1Data/saves/savename.phys
 
-'End': Load save ("Sim1.phys").
-
+'End': Load save
 
 
 # How to load source code? (Main Branch)
