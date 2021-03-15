@@ -52,6 +52,8 @@ scrollwheel: change camera speed
 
 'End': Load save
 
+'O' : Hold down to spawn objects in orbit
+
 
 # How to load source code? (Main Branch)
 
