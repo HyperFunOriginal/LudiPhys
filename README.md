@@ -28,7 +28,7 @@ Alpha 2: Reset all temperatures to 300K
 
 Enter / Return: spawns a still particle near camera with material settings if specified.
 
-Right Shift: Reset timestep
+Right Shift: Reset timestep and camera exposure
 
 '/' : Remove all particles
 
@@ -57,6 +57,8 @@ scrollwheel: change camera speed
 'End': Load save
 
 'O' : Hold down to spawn objects in orbit
+
+'[' and ']': Controls camera exposure.
 
 
 # How to load source code? (Main Branch)
