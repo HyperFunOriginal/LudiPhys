@@ -9,6 +9,13 @@ particles exert forces like gravity, collision, friction and 'pressure' forces.
 
 particles have properties and thermodynamics.
 
+#To-Dos
+
+- Keybind changing
+- Keybind settings
+- Radioactive materials
+- Compute Shaders
+
 # Main Controls (Newest Version)
 W,S: Move forwards / backwards
 
