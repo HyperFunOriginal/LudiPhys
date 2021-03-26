@@ -9,7 +9,13 @@ particles exert forces like gravity, collision, friction and 'pressure' forces.
 
 particles have properties and thermodynamics.
 
-#To-Dos
+
+# Theory
+
+This game uses an implicit SPH implementation where particles simply apply radial forces to simulate effects. This is good as it only relies on purely emergent behaviour and does not need to be explicitly told what to do, this makes the simulation extremely easy to modify and to create. Pressure and Gravity forces large clumps of particles into a sphere, like what would happen in reality. Roche limits are done completely implicitly and rely on purely physics (difference in gravity from one side of a planet to another). Downsides is that such an SPH implementation is really difficult to optimise and thus is incredibly slow. This implementation also does not scale up to larger scales well in terms of performance.
+
+
+# To-Dos
 
 - Keybind changing
 - Keybind settings
