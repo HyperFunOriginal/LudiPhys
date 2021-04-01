@@ -29,11 +29,7 @@ A,D: Move sideways
 
 Q,E: Move vertically relative to 'world'
 
-Alpha 7: Launch a particle at center of screen with a velocity pointing directly away from camera with speed of camera movement speed. If specified, it will launch a specific material. If not, it'll launch silicate.
-
-Alpha 8: Launch a ~180km radius asteroid, launches similarly to Alpha 7.
-
-Alpha 9: Launch a ~400km radius dwarf planet, launches similarly to Alpha 7 but with no material options.
+I: Spawn Object of properites
 
 Alpha 1: Reset velocities to zero
 
