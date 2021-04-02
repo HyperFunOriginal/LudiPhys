@@ -35,6 +35,8 @@ Alpha 1: Reset velocities to zero
 
 Alpha 2: Reset all temperatures to 300K
 
+Alpha 3: Reset global momentum to zero.
+
 Enter / Return: spawns a still particle near camera with material settings if specified.
 
 Right Shift: Reset timestep and camera exposure
