@@ -22,7 +22,7 @@ This game uses an implicit SPH implementation where particles simply apply radia
 - Radioactive materials
 - Compute Shaders
 
-# Main Controls (Newest Version)
+# Default Controls (Newest Version)
 W,S: Move forwards / backwards
 
 A,D: Move sideways
