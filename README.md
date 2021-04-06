@@ -23,13 +23,18 @@ This game uses an implicit SPH implementation where particles simply apply radia
 - Compute Shaders
 
 # Default Controls (Newest Version)
+
+left-click and hold RMB to spawn object in specified mode.
+
+while holding left click, scroll to change altitude.
+
+
+
 W,S: Move forwards / backwards
 
 A,D: Move sideways
 
 Q,E: Move vertically relative to 'world'
-
-I: Spawn Object of properites
 
 Alpha 1: Reset velocities to zero
 
@@ -65,9 +70,7 @@ scrollwheel: change camera speed
 
 'Home': Save Simulation, Saved in PhysicsSandbox1/PhysicsSandbox1Data/saves/savename.phys
 
-'End': Load save
-
-'O' : Hold down to spawn objects in orbit
+'End': Load save.
 
 '[' and ']': Controls camera exposure.
 
